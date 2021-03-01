@@ -42,7 +42,7 @@ padding:0 100px;
 font-weight:bold;
 }
 .menu-bar {
-	background:none;
+	background:white;
 }
 .menu-bar ul {
 	display:block;
@@ -72,7 +72,6 @@ font-weight:bold;
 }
 .sub-menu-2 {
 	display:none;
-	background-color:white;
 }
 .hover-me:hover .sub-menu-2 {
 	position:absolute;
