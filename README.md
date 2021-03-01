@@ -6,4 +6,18 @@
 
 To do this: Add [        ] for the visible text, and ( ) for the link.
 <hr>
-<p>#</p>
+
+<p><b>Creating links to interconnect the pages of your site</b> (hope this is not confusing):
+  <br>
+ Note: Everything will be done here in <b>github.com</b>
+  <br>
+<ol>1. ***If you have this, go to the next*** Create a file named <b>index.html</b>. Click commit changes. This is mainly the homepage of your site.
+  <br>
+2. Once done, make another file formatted like this: yourinput.html. Ex. "home.html". 
+ <br>
+3. Go back to the index.html which is most likely blank or you have already inserted a code in it. 
+<br>
+4. Insert <b>a href="yourinput.html"</b> Make sure you put the enclosing tags.
+</ol> 
+<br><br>
+<p>I'm sorry if this is messy. </p>
