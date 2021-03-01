@@ -9,6 +9,7 @@ ul {
 margin:0px
 padding:0px;
 list-style:none;
+background-color:white;
 }
 ul li {
 float:right;
