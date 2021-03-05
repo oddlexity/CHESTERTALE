@@ -5,6 +5,11 @@ background-size:cover;
 font-family:baskerville;
 font-size:24px;
 }
+P.blocktext {
+    margin-left: auto;
+    margin-right: auto;
+    width: 8em
+}
 ul {
 margin:0px
 padding:0px;
