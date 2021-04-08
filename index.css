@@ -89,13 +89,13 @@ font-weight:bold;
   color: gray;
 }
 button {
-background-color: transparent;
-outline:none;
-border:4px solid transparent;
-border-radius:1px;
-position:relative;
-top:-12px;
-right:197px;
+	background-color: black;
+        outline: none;
+        border: 0px solid transparent;
+        border-radius: 5px;
+        position: relative;
+        top: 5px;
+        right: 118px;
 }
 .dark-mode button {
 background:transparent;
