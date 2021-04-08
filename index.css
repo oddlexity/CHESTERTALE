@@ -85,3 +85,23 @@ font-weight:bold;
 	margin-top:-25px;
 	margin-right:35px;
 }
+button {
+background-color: transparent;
+outline:none;
+border:8px solid transparent;
+border-radius:8px;
+margin-left:-200px;
+}
+.dark-mode {
+  background-color: black;
+  color: gray;
+}
+.dark-mode button {
+background:black;
+}
+hr {
+ border: 1px solid black;
+}
+.dark-mode hr{
+border: 1px solid gray;
+}
