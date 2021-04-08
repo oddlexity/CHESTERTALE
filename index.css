@@ -88,15 +88,7 @@ font-weight:bold;
   background-color: black;
   color: gray;
 }
-button {
-	background-color: black;
-        outline: none;
-        border: 0px solid transparent;
-        border-radius: 5px;
-        position: relative;
-        top: 5px;
-        right: 118px;
-}
+/*button tag missing for now*/
 .dark-mode button {
 background:transparent;
 }
