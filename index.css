@@ -1,6 +1,5 @@
 body {
-background:#D3D3D3;
-color:black;
+background-color:#D3D3D3;
 background-size:cover;
 font-family:baskerville;
 font-size:24px;
@@ -12,7 +11,7 @@ p.blocktext {
     color:#999999;
 }
 ul {
-margin:0px;
+margin:0px
 padding:0px;
 list-style:none;
 }
@@ -85,16 +84,17 @@ font-weight:bold;
 	margin-top:-25px;
 	margin-right:35px;
 }
+.dark-mode {
+  background-color: black;
+  color: gray;
+}
 button {
-background-color: green;
+background-color: blue;
 outline:none;
 border:8px solid transparent;
 border-radius:8px;
 margin-left:-200px;
-}
-.dark-mode {
-  background-color: black;
-  color: gray;
+
 }
 .dark-mode button {
 background:black;
