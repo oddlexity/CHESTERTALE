@@ -89,7 +89,7 @@ font-weight:bold;
   color: gray;
 }
 button {
-background-color: blue;
+background-color: transparent;
 outline:none;
 border:8px solid transparent;
 border-radius:8px;
