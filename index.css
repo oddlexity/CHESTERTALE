@@ -1,5 +1,6 @@
 body {
-background-color:#D3D3D3; 
+background:#D3D3D3;
+color:black;
 background-size:cover;
 font-family:baskerville;
 font-size:24px;
@@ -85,7 +86,7 @@ font-weight:bold;
 	margin-right:35px;
 }
 button {
-background-color: transparent;
+background-color: green;
 outline:none;
 border:8px solid transparent;
 border-radius:8px;
