@@ -89,8 +89,7 @@ font-weight:bold;
   color: gray;
 }
 /*button tag missing for now*/
-.dark-mode button {
-background:gray;
+/*the dark one too^*/
 }
 hr {
  border: 1px solid black;
