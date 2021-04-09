@@ -90,7 +90,7 @@ font-weight:bold;
 }
 /*button tag missing for now*/
 .dark-mode button {
-background:transparent;
+background:gray;
 }
 hr {
  border: 1px solid black;
