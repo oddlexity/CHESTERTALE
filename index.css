@@ -103,3 +103,10 @@ border: 1px solid gray;
     width:40em;
     color:#999999;
 }
+ h6 {
+     padding:none;
+     border:10px solid #737373;		     
+    }	
+.dark-mode h6 {
+	10px solid #999999
+	}
