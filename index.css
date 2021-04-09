@@ -111,3 +111,11 @@ border: 1px solid gray;
 	padding:none;
 	border:10px solid #999999;
 	}
+  h3 {
+        padding:20px;
+        border:10px double 737373;            
+    }
+ .dark-mode h3 {
+        padding:20px;
+        border:10px double #808080;            
+    }
