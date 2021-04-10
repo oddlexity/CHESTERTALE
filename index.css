@@ -116,3 +116,6 @@ border: 1px solid #a6a6a6;
         padding:20px;
         border:10px double #808080;            
     }
+.dark-mode label {
+           color:white;
+}
