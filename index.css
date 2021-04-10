@@ -119,3 +119,10 @@ border: 1px solid #a6a6a6;
 .dark-mode label {
            color:white;
 }
+h2 a {
+  text-decoration:none;
+  color:black;	
+}
+.dark-mode h2 a {
+        color:white;
+}
