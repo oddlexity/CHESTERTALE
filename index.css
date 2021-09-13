@@ -1,20 +1,24 @@
+/*Comment*/ 
 body {
 background-color:#D3D3D3;
 background-size:cover;
 font-family:baskerville;
 font-size:24px;
 }
+/*Comment*/
 p.blocktext {
     margin-left:auto;
     margin-right:auto;
     width:40em;
     color:black;
 }
+/*Comment*/
 ul {
 margin:0px
 padding:0px;
 list-style:none;
 }
+/*Comment*/
 ul li {
 float:right;
 width:120px;
@@ -25,20 +29,25 @@ line-height:50px;
 text-align:center;
 font size:24px;
 }
+/*Comment*/
 ul li a {
 text-decoration:none;
 color:black;
 display:block;
 }
+/*Comment*/
 ul li a:hover {
 background-color:#009900;
 }
+/*Comment*/
 ul li ul li {
 display:none;
 }
+/*Comment*/
 ul li:hover ul li {
 display:block;
 }
+/*Comment*/
 label.logo{
 color:white;
 font-size:37px;
@@ -46,24 +55,30 @@ line-height:80px;
 padding:0 100px;
 font-weight:bold;
 }
+/*Comment*/
 .menu-bar {
 	background:none;
 }
+/*Comment*/
 .menu-bar ul {
 	display:block;
 	list-style:none;
 }
+/*Comment*/
 .active, .menu-bar ul li:hover
-{
+        {
 	background:#008000;
 	color:white;	
 }
+/*Comment*/
 .menu-bar .fa {
 	margin-right:none;
 }
+/*Comment*/
 .sub-menu-1 {
 	display:none;
 }
+/*Comment*/
 .menu-bar ul li:hover .sub-menu-1 {
 	display:block;
 	position:none;
@@ -71,58 +86,73 @@ font-weight:bold;
 	margin-top:0px;
 	margin-right:0px;
 }
+/*Comment*/
 .menu-bar ul li:hover .sub-menu-1 {
 	display:block;
 	margin:0px;
 }
+/*Comment*/
 .sub-menu-2 {
 	display:none;
 }
+/*Comment*/
 .hover-me:hover .sub-menu-2 {
 	position:absolute;
 	display:block;
 	margin-top:-25px;
 	margin-right:35px;
 }
+/*Comment*/
 .dark-mode {
   background-color: black;
   color: gray;
 }
+/*Comment*/
 hr {
  border: 1px solid #4d4d4d;
 }
+
+/*Comment*/
 .dark-mode hr{
 border: 1px solid #a6a6a6;
 }
+/*I will*/
 .dark-mode p.blocktext {
     margin-left:auto;
     margin-right:auto;
     width:40em;
     color:#999999;
 }
+/*Probably*/
  h6 {
      padding:none;
      border:10px solid #737373;		     
     }	
+/*Edit*/
 .dark-mode h6 {
 	padding:none;
 	border:10px solid #999999;
 	}
+/*This*/
   h3 {
         padding:20px;
         border:10px double #737373;            
     }
+/*When*/
  .dark-mode h3 {
         padding:20px;
         border:10px double #808080;            
     }
+/*I am*/
 .dark-mode label {
            color:white;
 }
+/*Not so*/
 h2 a {
   text-decoration:none;
   color:black;	
 }
+/*Lazy*/
 .dark-mode h2 a {
         color:white;
 }
