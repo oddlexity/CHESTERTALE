@@ -18,7 +18,7 @@ margin:0px
 padding:0px;
 list-style:none;
 }
-/*Comment*/
+/*Menu Navigation*/
 ul li {
 float:right;
 width:120px;
@@ -64,7 +64,7 @@ font-weight:bold;
 	display:block;
 	list-style:none;
 }
-/*Comment*/
+/*The VOID button*/
 .active, .menu-bar ul li:hover
         {
 	background:#008000;
