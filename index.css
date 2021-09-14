@@ -133,12 +133,12 @@ border: 1px solid #a6a6a6;
 	padding:none;
 	border:10px solid #999999;
 	}
-/*This*/
+/*Chapter Border Design*/
   h3 {
         padding:20px;
         border:10px double #737373;            
     }
-/*When*/
+/*Chapter Border Dark*/
  .dark-mode h3 {
         padding:20px;
         border:10px double #808080;            
